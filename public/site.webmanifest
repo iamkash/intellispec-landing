@@ -1,0 +1,17 @@
+{
+  "name": "IntelliSpec - Industrial Intelligence Platform",
+  "short_name": "IntelliSpec",
+  "description": "Transform industrial operations with AI-powered inspection, compliance, and asset management solutions",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00B2A9",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en-US",
+  "categories": ["business", "productivity", "utilities"],
+  "icons": [
+    { "src": "/images/logos/Logo.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/images/logos/Logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
