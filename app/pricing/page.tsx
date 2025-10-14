@@ -573,7 +573,7 @@ export default function PricingPage() {
         <div className="container-custom">
           <div className="text-center mb-10">
             <h2 className="text-3xl lg:text-4xl font-bold mb-3">Compare plans and features</h2>
-            <p className="text-slate-600 text-lg">A quick overview of what's included across Core, Edge, Enterprise, and Flex.</p>
+            <p className="text-slate-600 text-lg">A quick overview of what&apos;s included across Core, Edge, Enterprise, and Flex.</p>
           </div>
 
           <Card className="glass-morphism shadow-2xl">
