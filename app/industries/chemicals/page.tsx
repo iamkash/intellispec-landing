@@ -161,7 +161,7 @@ const chemicalsIndustry = {
       },
       metrics: { integrity: '99.8%', corrosion: '95%', compliance: '100%' },
         testimonial: {
-        quote: "IntelliSpec transformed our asset integrity program. We now detect corrosion issues before they become disasters, ensuring the safety of our operations and preventing costly downtime.",
+        quote: "intelliSPEC transformed our asset integrity program. We now detect corrosion issues before they become disasters, ensuring the safety of our operations and preventing costly downtime.",
         author: "Dr. Sarah Chen",
         title: "Asset Integrity Director",
         company: "Global Chemical Integrity"
@@ -221,7 +221,7 @@ const chemicalsIndustry = {
       },
       metrics: { efficiency: '80%', costs: '35%', safety: '100%' },
         testimonial: {
-        quote: "Turnarounds used to be our biggest headache. Now with IntelliSpec, we plan and execute them with precision, saving millions and maintaining perfect safety records.",
+        quote: "Turnarounds used to be our biggest headache. Now with intelliSPEC, we plan and execute them with precision, saving millions and maintaining perfect safety records.",
         author: "Dr. Lisa Park",
         title: "Turnaround Director",
         company: "Chemical Turnaround Excellence"
@@ -241,7 +241,7 @@ const chemicalsIndustry = {
       },
       metrics: { accuracy: '95%', reporting: '100%', compliance: '100%' },
         testimonial: {
-        quote: "NDT inspections are now fast, accurate, and fully compliant. IntelliSpec's platform analyzes data instantly and ensures we meet every regulatory requirement.",
+        quote: "NDT inspections are now fast, accurate, and fully compliant. intelliSPEC's platform analyzes data instantly and ensures we meet every regulatory requirement.",
           author: "James Wilson",
         title: "NDT Director",
         company: "Chemical NDT Excellence"
@@ -261,7 +261,7 @@ const chemicalsIndustry = {
       },
       metrics: { detection: '95%', prevention: '90%', safety: '100%' },
         testimonial: {
-        quote: "Corrosion was our silent killer. IntelliSpec's monitoring system finds it before it becomes a disaster, saving lives and millions in potential losses.",
+        quote: "Corrosion was our silent killer. intelliSPEC's monitoring system finds it before it becomes a disaster, saving lives and millions in potential losses.",
           author: "Maria Santos",
         title: "Corrosion Engineering Director",
         company: "Chemical Corrosion Solutions"
@@ -281,7 +281,7 @@ const chemicalsIndustry = {
       },
       metrics: { compliance: '100%', audits: '100%', risk: '95%' },
       testimonial: {
-        quote: "Regulatory compliance used to be a nightmare. Now IntelliSpec handles it automatically, ensuring we pass every audit with flying colors.",
+        quote: "Regulatory compliance used to be a nightmare. Now intelliSPEC handles it automatically, ensuring we pass every audit with flying colors.",
         author: "Robert Johnson",
         title: "Compliance Director",
         company: "Chemical Regulatory Compliance"
@@ -309,7 +309,7 @@ export default function ChemicalsPage() {
         personas={chemicalsIndustry.personas}
         timeline={[]}
         ctaTitle="Ready to Transform Your Chemical Operations?"
-        ctaDescription="Join leading chemical companies achieving operational excellence with IntelliSpec's comprehensive process safety and compliance solutions."
+        ctaDescription="Join leading chemical companies achieving operational excellence with intelliSPEC's comprehensive process safety and compliance solutions."
         />
       <LLMReadyBlock
         intent="Chemicals FAQs"

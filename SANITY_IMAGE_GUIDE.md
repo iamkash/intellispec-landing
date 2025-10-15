@@ -11,7 +11,7 @@ Your case study currently doesn't have a `featuredImage` field set. The image pl
 - Navigate to "Case Studies" in the left sidebar
 
 ### 2. Edit your case study
-- Click on your Chevron case study: "3 Days Saved, Zero Surprises: How Chevron GOM Streamlined Their Turnaround with IntelliSpec"
+- Click on your Chevron case study: "3 Days Saved, Zero Surprises: How Chevron GOM Streamlined Their Turnaround with intelliSPEC"
 
 ### 3. Add Featured Image
 - Scroll down to the "Featured Image" field

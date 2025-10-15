@@ -68,7 +68,7 @@ const partnershipPrograms: PartnershipProgram[] = [
     color: 'text-primary',
     gradient: '',
     benefits: {
-      title: 'Why Partner with IntelliSpec?',
+      title: 'Why Partner with intelliSPEC?',
       items: [
         'Access to proven field-ready industrial platform',
         'Comprehensive API and integration capabilities',
@@ -104,7 +104,7 @@ const partnershipPrograms: PartnershipProgram[] = [
     id: 'var-program',
     title: 'Value-Added Resellers (VARs)',
     subtitle: 'Enable niche-market expansion through white-labeled solutions and reseller-led outreach',
-    description: 'Expand your market reach with white-labeled IntelliSpec solutions tailored to specific industry verticals and regional markets.',
+    description: 'Expand your market reach with white-labeled intelliSPEC solutions tailored to specific industry verticals and regional markets.',
     icon: Users,
     color: 'text-secondary',
     gradient: '',
@@ -145,7 +145,7 @@ const partnershipPrograms: PartnershipProgram[] = [
     id: 'tech-vendor-bundling',
     title: 'Technology Vendor Bundling',
     subtitle: 'Co-sell with sensor, drone, and camera OEMs to offer a unified hardware-software solution',
-    description: 'Create integrated hardware-software solutions by bundling IntelliSpec software with leading sensor, drone, and camera technologies.',
+    description: 'Create integrated hardware-software solutions by bundling intelliSPEC software with leading sensor, drone, and camera technologies.',
     icon: Cpu,
     color: 'text-accent',
     gradient: '',
@@ -235,7 +235,7 @@ export default function PartnersPage() {
               className="text-5xl md:text-7xl font-bold text-foreground mb-8 text-center"
             >
               Partner with{' '}
-              <span className="gradient-text">IntelliSpec</span>
+              <span className="gradient-text">intelliSPEC</span>
             </motion.h1>
 
             {/* Subtitle */}
@@ -245,7 +245,7 @@ export default function PartnersPage() {
               transition={{ duration: 0.8, delay: 0.6 }}
               className="text-xl text-muted-foreground mb-12 max-w-3xl mx-auto leading-relaxed px-4 text-center"
             >
-              Grow your business with IntelliSpec. Co-sell and deliver proven outcomes for your clients across{' '}
+              Grow your business with intelliSPEC. Co-sell and deliver proven outcomes for your clients across{' '}
               <span className="font-semibold text-foreground">inspections, safety, and turnarounds</span>.
             </motion.p>
 
@@ -494,7 +494,7 @@ export default function PartnersPage() {
                 <Users className="w-8 h-8 text-primary-foreground" />
               </div>
               <h2 className="mb-6 text-3xl font-bold tracking-tight text-primary-foreground sm:text-4xl">
-                Ready to Partner with IntelliSpec?
+                Ready to Partner with intelliSPEC?
               </h2>
               <p className="mb-8 text-lg text-primary-foreground/80">
                 Join our partner network to co-sell, integrate, and deliver measurable results for your customers.

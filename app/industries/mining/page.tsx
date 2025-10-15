@@ -51,7 +51,7 @@ const miningIndustry = {
   challengeSolution: {
     title: 'Challenge-Solution Matrix',
     subtitle: 'Mining Solutions',
-    description: 'How IntelliSpec addresses specific mining challenges with proven solutions and measurable results.',
+    description: 'How intelliSPEC addresses specific mining challenges with proven solutions and measurable results.',
     matrix: [
       {
         challenge: 'Safety incidents and equipment failures causing injuries and production losses',
@@ -288,7 +288,7 @@ export default function MiningPage() {
             },
             metrics: { safety: '40%', efficiency: '35%', visibility: '100%' },
             testimonial: {
-              quote: "IntelliSpec transformed our mining visibility. We can now monitor every site in real-time and ensure safety while maximizing production.",
+              quote: "intelliSPEC transformed our mining visibility. We can now monitor every site in real-time and ensure safety while maximizing production.",
               author: "Marcus Thompson",
               title: "Mining Operations Director",
               company: "Global Mining Solutions"
@@ -418,7 +418,7 @@ export default function MiningPage() {
         ]}
         timeline={[]}
         ctaTitle="Ready to Transform Your Mining Operations?"
-        ctaDescription="Join leading mining companies achieving operational excellence with IntelliSpec's comprehensive extraction solutions."
+        ctaDescription="Join leading mining companies achieving operational excellence with intelliSPEC's comprehensive extraction solutions."
       />
       <LLMReadyBlock
         intent="Mining FAQs"

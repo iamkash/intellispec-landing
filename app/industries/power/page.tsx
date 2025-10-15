@@ -207,7 +207,7 @@ export default function PowerPage() {
         },
         metrics: { visibility: '100%', efficiency: '40%', coordination: '60%' },
         testimonial: {
-          quote: "IntelliSpec gave us the visibility we desperately needed. We can now track every power grid operation in real-time and make informed decisions instantly.",
+          quote: "intelliSPEC gave us the visibility we desperately needed. We can now track every power grid operation in real-time and make informed decisions instantly.",
           author: "Sarah Chen",
           title: "Power Grid Operations Director",
           company: "Global Power Solutions"
@@ -327,7 +327,7 @@ export default function PowerPage() {
         },
         metrics: { readiness: '100%', response: '80%', compliance: '100%' },
         testimonial: {
-          quote: "In emergency situations, every second counts. IntelliSpec ensures our power team is always ready and can respond instantly.",
+          quote: "In emergency situations, every second counts. intelliSPEC ensures our power team is always ready and can respond instantly.",
           author: "Robert Johnson",
           title: "Power Emergency Team Lead",
           company: "Power Emergency Response Services"
@@ -441,7 +441,7 @@ export default function PowerPage() {
         title: "Intelligence",
         subtitle: "AI-Powered Predictive Intelligence",
         period: "2024-2034",
-        description: "IntelliSpec delivers predictive power intelligence",
+        description: "intelliSPEC delivers predictive power intelligence",
         features: [
           {
             icon: "CheckCircle",
@@ -472,7 +472,7 @@ export default function PowerPage() {
     ],
 
     ctaTitle: "Ready to Transform Your Power Operations?",
-    ctaDescription: "Join industry leaders who have revolutionized their power operations with IntelliSpec. Start your free trial today and see the difference predictive intelligence makes.",
+    ctaDescription: "Join industry leaders who have revolutionized their power operations with intelliSPEC. Start your free trial today and see the difference predictive intelligence makes.",
     ctaButtonText: "Start Free Trial",
     ctaButtonLink: "/contact"
   }

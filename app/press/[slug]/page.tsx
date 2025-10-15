@@ -41,12 +41,12 @@ export async function generateMetadata({ params }: PressItemPageProps): Promise<
   
   if (!pressItem) {
     return {
-      title: 'Press Item Not Found - IntelliSpec',
+      title: 'Press Item Not Found - intelliSPEC',
     };
   }
 
   return {
-    title: `${pressItem.title} - IntelliSpec`,
+    title: `${pressItem.title} - intelliSPEC`,
     description: pressItem.excerpt,
     alternates: { canonical: `https://intellispec.com/press/${params.slug}` },
     openGraph: {
@@ -245,7 +245,7 @@ export default async function PressItemPage({ params }: PressItemPageProps) {
             author: pressItem.author ? { '@type': 'Person', name: pressItem.author.name } : undefined,
             publisher: {
               '@type': 'Organization',
-              name: 'IntelliSpec',
+              name: 'intelliSPEC',
               url: 'https://intellispec.com'
             }
           })

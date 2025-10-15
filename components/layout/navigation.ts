@@ -123,7 +123,7 @@ export const navigation: NavItem[] = [
   },
   {
     label: 'Company',
-    description: 'About IntelliSpec',
+    description: 'About intelliSPEC',
     icon: Users,
     children: [
       {

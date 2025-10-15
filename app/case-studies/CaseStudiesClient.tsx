@@ -140,7 +140,7 @@ export default function CaseStudiesClient({ caseStudies }: CaseStudiesClientProp
             </h1>
             <p className="text-xl text-muted-foreground mb-12 leading-relaxed">
               Discover how leading companies across industries are transforming their operations
-              with IntelliSpec&apos;s intelligent inspection and compliance solutions.
+              with intelliSPEC&apos;s intelligent inspection and compliance solutions.
             </p>
             
             {/* Company Stats */}
@@ -521,7 +521,7 @@ export default function CaseStudiesClient({ caseStudies }: CaseStudiesClientProp
               Ready to See <span className="gradient-text">Similar Results</span>?
             </h2>
             <p className="text-xl text-slate-600 mb-8 max-w-2xl mx-auto">
-              Let&apos;s discuss how IntelliSpec can help transform your operations and achieve measurable results.
+              Let&apos;s discuss how intelliSPEC can help transform your operations and achieve measurable results.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button 

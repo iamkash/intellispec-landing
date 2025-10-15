@@ -51,7 +51,7 @@ const automotiveIndustry = {
   challengeSolution: {
     title: 'Challenge-Solution Matrix',
     subtitle: 'Automotive Solutions',
-    description: 'How IntelliSpec addresses specific automotive challenges with proven solutions and measurable results.',
+    description: 'How intelliSPEC addresses specific automotive challenges with proven solutions and measurable results.',
     matrix: [
       {
         challenge: 'Quality defects discovered late in production causing recalls and warranty claims',
@@ -289,7 +289,7 @@ export default function AutomotivePage() {
             },
             metrics: { visibility: '100%', efficiency: '45%', quality: '30%' },
             testimonial: {
-              quote: "IntelliSpec transformed our production visibility. We can now track every line in real-time and make data-driven decisions instantly.",
+              quote: "intelliSPEC transformed our production visibility. We can now track every line in real-time and make data-driven decisions instantly.",
               author: "Jennifer Martinez",
               title: "Automotive Plant Manager",
               company: "Global Auto Manufacturing"
@@ -419,7 +419,7 @@ export default function AutomotivePage() {
         ]}
         timeline={[]}
         ctaTitle="Ready to Transform Your Automotive Operations?"
-        ctaDescription="Join leading automotive manufacturers achieving operational excellence with IntelliSpec's comprehensive production solutions."
+        ctaDescription="Join leading automotive manufacturers achieving operational excellence with intelliSPEC's comprehensive production solutions."
       />
       <LLMReadyBlock
         intent="Automotive FAQs"

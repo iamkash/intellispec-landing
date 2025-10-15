@@ -2,7 +2,7 @@
 
 ## Overview
 
-IntelliSpec Landing uses Next.js 14's data fetching capabilities with Sanity CMS as the content backend. This document covers patterns for fetching, caching, and revalidating data.
+intelliSPEC Landing uses Next.js 14's data fetching capabilities with Sanity CMS as the content backend. This document covers patterns for fetching, caching, and revalidating data.
 
 ## Sanity CMS Integration
 

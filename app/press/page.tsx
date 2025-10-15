@@ -3,11 +3,11 @@ import { getPressItems } from '@/lib/sanity';
 import PressClient from './PressClient';
 
 export const metadata: Metadata = {
-  title: 'Press & Media - IntelliSpec',
+  title: 'Press & Media - intelliSPEC',
   description: 'Stay updated with the latest news, press releases, and media coverage about PK Companies and our mission to revolutionize industrial safety through technology.',
-  keywords: 'press releases, media coverage, news, awards, PK Companies, IntelliSpec, industrial safety',
+  keywords: 'press releases, media coverage, news, awards, PK Companies, intelliSPEC, industrial safety',
   openGraph: {
-    title: 'Press & Media - IntelliSpec',
+    title: 'Press & Media - intelliSPEC',
     description: 'Latest news, press releases, and media coverage about PK Companies and industrial safety technology.',
     type: 'website',
   },

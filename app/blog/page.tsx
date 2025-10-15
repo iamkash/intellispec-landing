@@ -3,8 +3,8 @@ import { getBlogPosts } from '@/lib/sanity';
 import BlogPostsClient from './BlogPostsClient';
 
 export const metadata: Metadata = {
-  title: 'Blog - IntelliSpec',
-  description: 'Stay updated with the latest insights, industry trends, and technical articles from IntelliSpec.',
+  title: 'Blog - intelliSPEC',
+  description: 'Stay updated with the latest insights, industry trends, and technical articles from intelliSPEC.',
 };
 
 // Disable caching for this page to ensure fresh data

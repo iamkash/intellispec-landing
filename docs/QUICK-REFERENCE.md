@@ -72,7 +72,7 @@ import { createPageMetadata } from '@/lib/seo'
 
 export const generateMetadata = async (): Promise<Metadata> =>
   createPageMetadata({
-    title: 'Page Title - IntelliSpec',
+    title: 'Page Title - intelliSPEC',
     description: 'Page description for SEO',
     canonicalPath: '/new-page'
   })

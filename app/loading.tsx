@@ -17,7 +17,7 @@ export default function Loading() {
         >
           <Image
             src="/images/logos/light-logo.png"
-            alt="IntelliSpec - Where Data Meets Ingenuity"
+            alt="intelliSPEC - Where Data Meets Ingenuity"
             width={200}
             height={45}
             className="mx-auto"

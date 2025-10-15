@@ -2,7 +2,7 @@
 
 ## Overview
 
-The IntelliSpec Landing styling system is built on Tailwind CSS with CSS custom properties for theming, following a utility-first approach with component-level abstractions.
+The intelliSPEC Landing styling system is built on Tailwind CSS with CSS custom properties for theming, following a utility-first approach with component-level abstractions.
 
 ## Technology Stack
 

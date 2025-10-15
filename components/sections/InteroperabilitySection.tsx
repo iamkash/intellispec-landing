@@ -161,7 +161,7 @@ export default function InteroperabilitySection() {
             Connect <span className="gradient-text">Everything</span> Seamlessly
           </h2>
           <p className="text-xl text-slate-600 max-w-5xl mx-auto leading-relaxed">
-            Built on open standards and API-first architecture, IntelliSpec integrates with your existing systems 
+            Built on open standards and API-first architecture, intelliSPEC integrates with your existing systems 
             <span className="font-semibold text-slate-700"> without disruption or data migration.</span> Connect ERP, SCADA, CMMS, and more in days, not months.
           </p>
         </motion.div>

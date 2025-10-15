@@ -3,7 +3,7 @@ import { getWhitePapers } from '@/lib/sanity';
 import WhitePapersClient from './WhitePapersClient';
 
 export const metadata: Metadata = {
-  title: 'White Papers - IntelliSpec',
+  title: 'White Papers - intelliSPEC',
   description: 'Download comprehensive white papers and technical resources on industrial safety and compliance solutions.',
 };
 

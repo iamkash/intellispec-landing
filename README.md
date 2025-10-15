@@ -1,6 +1,6 @@
-# IntelliSpec Landing Page
+# intelliSPEC Landing Page
 
-A modern, responsive, high-performance landing page for IntelliSpec — a mobile-first, modular SaaS software application designed for industrial inspection, safety, turnaround execution, compliance, and operational reporting.
+A modern, responsive, high-performance landing page for intelliSPEC — a mobile-first, modular SaaS software application designed for industrial inspection, safety, turnaround execution, compliance, and operational reporting.
 
 > 📚 **[View Complete Technical Documentation →](./docs/README.md)**  
 > Comprehensive guides covering architecture, development workflow, styling, performance, security, testing, and more.
@@ -8,6 +8,7 @@ A modern, responsive, high-performance landing page for IntelliSpec — a mobile
 ## 🚀 Features
 
 ### Core Features
+
 - **Modern Design**: Clean, professional design with Apple-inspired minimalist aesthetics
 - **Responsive Layout**: Mobile-first design that works perfectly on all devices
 - **High Performance**: Optimized for fast loading times (LCP < 2.5s)
@@ -16,6 +17,7 @@ A modern, responsive, high-performance landing page for IntelliSpec — a mobile
 - **Animations**: Smooth Framer Motion animations and micro-interactions
 
 ### Technical Features
+
 - **Next.js 14**: Latest App Router with TypeScript
 - **Tailwind CSS**: Utility-first styling with custom design system
 - **ShadCN UI**: Pre-built, accessible components
@@ -25,8 +27,9 @@ A modern, responsive, high-performance landing page for IntelliSpec — a mobile
 - **Performance**: Optimized images, fonts, and bundle size
 
 ### Landing Page Sections
+
 1. **Hero Section**: Video background with compelling headline and CTAs
-2. **Modules Overview**: Grid layout showcasing all 10 IntelliSpec modules
+2. **Modules Overview**: Grid layout showcasing all 10 intelliSPEC modules
 3. **Industries Served**: Industry-specific solutions and use cases
 4. **Solutions Overview**: Comprehensive solution offerings
 5. **Storytelling Block**: Problem → Solution → Results narrative
@@ -88,6 +91,7 @@ Comprehensive technical documentation is available covering all aspects of devel
 ## 🎨 Key Features
 
 ### Design & Performance
+
 - ✅ Mobile-first responsive design (< 640px to 1920px+)
 - ✅ Core Web Vitals optimized (LCP < 2.5s, CLS < 0.1)
 - ✅ Lighthouse score 90+ (Performance, A11y, Best Practices, SEO)
@@ -95,6 +99,7 @@ Comprehensive technical documentation is available covering all aspects of devel
 - ✅ Smooth Framer Motion animations
 
 ### SEO & Accessibility
+
 - ✅ Dynamic metadata with Open Graph and Twitter cards
 - ✅ JSON-LD structured data for rich results
 - ✅ WCAG 2.1 Level AA compliant
@@ -102,6 +107,7 @@ Comprehensive technical documentation is available covering all aspects of devel
 - ✅ Semantic HTML with proper heading hierarchy
 
 ### Developer Experience
+
 - ✅ TypeScript for type safety
 - ✅ Tailwind CSS + ShadCN UI components
 - ✅ Hot reload and fast refresh
@@ -111,6 +117,7 @@ Comprehensive technical documentation is available covering all aspects of devel
 ## 🤝 Contributing
 
 See **[Development Workflow](./docs/DEVELOPMENT-WORKFLOW.md)** for:
+
 - Git workflow and branching strategy
 - Code quality standards
 - Commit message conventions
@@ -136,6 +143,7 @@ This project is proprietary software. All rights reserved.
 - 💬 **Discussions**: GitHub Discussions
 
 ### External Resources
+
 - [Next.js 14 Documentation](https://nextjs.org/docs)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [Sanity.io Documentation](https://www.sanity.io/docs)
@@ -145,4 +153,4 @@ This project is proprietary software. All rights reserved.
 
 **Last Updated**: October 2025  
 **Version**: 1.0.0  
-**Built with ❤️ by the IntelliSpec Team** 
+**Built with ❤️ by the intelliSPEC Team**

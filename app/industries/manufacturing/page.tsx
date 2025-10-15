@@ -78,7 +78,7 @@ const manufacturingIndustry = {
   challengeSolution: {
     title: 'Challenge-Solution Matrix',
     subtitle: 'Manufacturing Solutions',
-    description: 'How IntelliSpec addresses specific manufacturing challenges with proven solutions and measurable results.',
+    description: 'How intelliSPEC addresses specific manufacturing challenges with proven solutions and measurable results.',
     matrix: [
       {
         challenge: 'Unplanned equipment downtime causing production delays and revenue loss',
@@ -290,7 +290,7 @@ const manufacturingIndustry = {
       },
       metrics: { integrity: '98%', corrosion: '95%', compliance: '100%' },
         testimonial: {
-        quote: "IntelliSpec transformed our asset integrity program. We now detect corrosion issues before they become disasters, ensuring the safety of our operations and preventing costly downtime.",
+        quote: "intelliSPEC transformed our asset integrity program. We now detect corrosion issues before they become disasters, ensuring the safety of our operations and preventing costly downtime.",
         author: "Michael Chen",
         title: "Asset Integrity Manager",
         company: "Precision Manufacturing Corp"
@@ -447,7 +447,7 @@ export default function ManufacturingPage() {
         personas={manufacturingIndustry.personas}
         timeline={[]}
         ctaTitle="Ready to Transform Your Manufacturing?"
-        ctaDescription="Join leading manufacturers achieving operational excellence with IntelliSpec's comprehensive production solutions."
+        ctaDescription="Join leading manufacturers achieving operational excellence with intelliSPEC's comprehensive production solutions."
       />
       <LLMReadyBlock
         intent="Manufacturing FAQs"

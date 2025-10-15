@@ -207,7 +207,7 @@ export default function OilGasPage() {
         },
         metrics: { downtime: '75%', failures: '90%', integrity: '95%' },
         testimonial: {
-          quote: "IntelliSpec's asset integrity platform transformed our approach from reactive to predictive. We now prevent failures before they cause catastrophic damage.",
+          quote: "intelliSPEC's asset integrity platform transformed our approach from reactive to predictive. We now prevent failures before they cause catastrophic damage.",
           author: "James Mitchell",
           title: "Oil & Gas Asset Integrity Director",
           company: "Upstream Asset Solutions"
@@ -327,7 +327,7 @@ export default function OilGasPage() {
         },
         metrics: { readiness: '100%', response: '80%', compliance: '100%' },
         testimonial: {
-          quote: "In emergency situations, every second counts. IntelliSpec ensures our oil & gas team is always ready and can respond instantly.",
+          quote: "In emergency situations, every second counts. intelliSPEC ensures our oil & gas team is always ready and can respond instantly.",
           author: "Robert Johnson",
           title: "Oil & Gas Emergency Team Lead",
           company: "Oil & Gas Emergency Response Services"
@@ -441,7 +441,7 @@ export default function OilGasPage() {
         title: "Intelligence",
         subtitle: "AI-Powered Predictive Intelligence",
         period: "2024-2034",
-        description: "IntelliSpec delivers predictive oil & gas intelligence",
+        description: "intelliSPEC delivers predictive oil & gas intelligence",
         features: [
           {
             icon: "CheckCircle",
@@ -472,7 +472,7 @@ export default function OilGasPage() {
     ],
 
     ctaTitle: "Ready to Transform Your Oil & Gas Operations?",
-    ctaDescription: "Join industry leaders who have revolutionized their oil & gas operations with IntelliSpec. Start your free trial today and see the difference predictive intelligence makes.",
+    ctaDescription: "Join industry leaders who have revolutionized their oil & gas operations with intelliSPEC. Start your free trial today and see the difference predictive intelligence makes.",
     ctaButtonText: "Start Free Trial",
     ctaButtonLink: "/contact"
   }

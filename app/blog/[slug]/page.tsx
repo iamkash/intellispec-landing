@@ -45,12 +45,12 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
   
   if (!blogPost) {
     return {
-      title: 'Blog Post Not Found - IntelliSpec',
+      title: 'Blog Post Not Found - intelliSPEC',
     };
   }
 
   return {
-    title: `${blogPost.title} - IntelliSpec`,
+    title: `${blogPost.title} - intelliSPEC`,
     description: blogPost.excerpt,
     alternates: { canonical: `https://intellispec.com/blog/${params.slug}` },
     openGraph: {
@@ -233,7 +233,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
             author: blogPost.author ? { '@type': 'Person', name: blogPost.author.name } : undefined,
             publisher: {
               '@type': 'Organization',
-              name: 'IntelliSpec',
+              name: 'intelliSPEC',
               url: 'https://intellispec.com'
             }
           })

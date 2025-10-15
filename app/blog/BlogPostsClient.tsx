@@ -522,7 +522,7 @@ export default function BlogPostsClient({ blogPosts }: BlogPostsClientProps) {
             </h2>
             <p className="text-xl text-primary-foreground/80 mb-8 max-w-3xl mx-auto">
               Get the latest insights, technical articles, and industry trends delivered to your inbox.
-              Stay ahead with IntelliSpec&apos;s thought leadership content.
+              Stay ahead with intelliSPEC&apos;s thought leadership content.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a

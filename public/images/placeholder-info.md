@@ -1,8 +1,9 @@
-# Placeholder Assets for IntelliSpec Landing Page
+# Placeholder Assets for intelliSPEC Landing Page
 
 This document lists all placeholder images and videos needed for the landing page sections.
 
 ## Hero Section
+
 - **Video Background**: `public/videos/industrial-operations.mp4` (or .webm)
   - Industrial operations footage showing manufacturing, oil & gas, or chemical plant operations
   - Duration: 10-15 seconds loop
@@ -14,6 +15,7 @@ This document lists all placeholder images and videos needed for the landing pag
   - `public/images/placeholder-field-operations.jpg` - Field operations with workers
 
 ## Solutions Overview Section
+
 - `public/images/placeholder-field-operations.jpg` - Field workers using digital devices ✅
 - `public/images/placeholder-quality-control.jpg` - Quality control and inspection processes ✅
 - `public/images/placeholder-maintenance.jpg` - Equipment maintenance and repair ✅
@@ -23,6 +25,7 @@ This document lists all placeholder images and videos needed for the landing pag
 - `public/images/placeholder-safety-compliance..jpg` - Safety and compliance processes ✅
 
 ## Industries Served Section
+
 - `public/images/industries/pharma.jpg` - Pharmaceutical manufacturing facilities ✅
 - `public/images/industries/mining.jpg` - Mining operations and equipment ✅
 - `public/images/industries/power.jpg` - Power plants and utility infrastructure ✅
@@ -31,6 +34,7 @@ This document lists all placeholder images and videos needed for the landing pag
 - `public/images/industries/oil.jpg` - Oil & gas operations (drilling, refineries) ✅
 
 ## Interoperability Section
+
 - `public/images/integrations/erp.jpg` - ERP system interfaces and dashboards ✅
 - `public/images/integrations/sada.jpg` - SCADA control systems and screens ✅
 - `public/images/integrations/crm.jpg` - CRM system interfaces ✅
@@ -39,6 +43,7 @@ This document lists all placeholder images and videos needed for the landing pag
 - `public/images/integrations/cloud.jpg` - Cloud platform integration ✅
 
 ## Trusted By Section - Company Logos
+
 - `public/images/logos/pk-safety-logo.png` - PK Safety company logo
 - `public/images/logos/pk-technology-logo.png` - PK Technology company logo
 - `public/images/logos/sherwin-williams-logo.png` - Sherwin-Williams company logo
@@ -56,8 +61,9 @@ This document lists all placeholder images and videos needed for the landing pag
 - `public/images/logos/chevron-pascagoula-logo.png` - Chevron Pascagoula company logo
 
 ## Image Specifications
+
 - **Format**: PNG for logos, JPG for photos
-- **Resolution**: 
+- **Resolution**:
   - Logos: 120x60px minimum (2:1 aspect ratio)
   - Photos: 800x600px minimum
   - Videos: 1920x1080px minimum
@@ -65,6 +71,7 @@ This document lists all placeholder images and videos needed for the landing pag
 - **Theme**: Consistent with industrial/manufacturing aesthetic
 
 ## Hero Section Images
+
 - `public/images/hero/container-cargo-ship-in-the-export-and-import-busi.jpg` - Container cargo ship operations ✅
 - `public/images/hero/mizushima-industrial-area-in-japan-at-night.jpg` - Industrial area at night ✅
 - `public/images/hero/harbor.jpg` - Industrial harbor operations ✅
@@ -80,13 +87,15 @@ This document lists all placeholder images and videos needed for the landing pag
 - `public/images/hero/industrial-chemical-factory-detail.jpg` - Chemical factory detail ✅
 
 ## Total Assets Required
+
 - **Videos**: 1
 - **Photos**: 32 (13 hero + 7 solutions + 6 integrations + 6 industries)
 - **Logos**: 15
 - **Total**: 48 assets
 
 ## Notes
+
 - All logos should be in PNG format with transparent backgrounds
 - Photos should be high-quality and represent real industrial operations
 - Videos should be professional and loop seamlessly
-- All assets should be optimized for web (compressed but maintaining quality) 
+- All assets should be optimized for web (compressed but maintaining quality)

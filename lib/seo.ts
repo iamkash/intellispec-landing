@@ -27,7 +27,7 @@ export function createPageMetadata(input: CreatePageMetadataInput): Metadata {
       title: input.title,
       description: input.description,
       url: canonical,
-      siteName: 'IntelliSpec',
+      siteName: 'intelliSPEC',
       type: 'website',
       images: input.ogImageUrl ? [{ url: input.ogImageUrl }] : undefined,
     },

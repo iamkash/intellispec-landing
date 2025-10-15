@@ -1,4 +1,4 @@
-# Image Optimization Tools for IntelliSpec Landing Page
+# Image Optimization Tools for intelliSPEC Landing Page
 
 ## 🚀 Two Ways to Optimize Your Images
 

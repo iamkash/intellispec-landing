@@ -248,7 +248,7 @@ export default function IndustryTemplate({
                 <div className={`w-12 h-12 bg-gradient-to-br ${industryGradient} rounded-xl flex items-center justify-center`}>
                   {successMetrics[0]?.icon && resolveIcon(successMetrics[0].icon) && React.createElement(resolveIcon(successMetrics[0].icon)!, { className: "w-6 h-6 text-white" })}
             </div>
-                <span className={`${industryColor} font-semibold`}>IntelliSpec {industryName}</span>
+                <span className={`${industryColor} font-semibold`}>intelliSPEC {industryName}</span>
             </div>
             
               <h1 className="text-5xl md:text-6xl font-bold mb-6 gradient-text">
@@ -371,7 +371,7 @@ export default function IndustryTemplate({
               Challenge-Solution Matrix
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              How IntelliSpec addresses specific {industryName.toLowerCase()} challenges with proven solutions
+              How intelliSPEC addresses specific {industryName.toLowerCase()} challenges with proven solutions
             </p>
           </motion.div>
 
@@ -502,7 +502,7 @@ export default function IndustryTemplate({
               <span className="gradient-text">Clarity</span>
             </h2>
             <p className="text-xl text-muted-foreground max-w-4xl mx-auto leading-relaxed">
-              See how IntelliSpec transforms the most challenging {industryName.toLowerCase()} workflows into streamlined, 
+              See how intelliSPEC transforms the most challenging {industryName.toLowerCase()} workflows into streamlined, 
               efficient, and compliant operations through the eyes of those who live it every day.
             </p>
           </motion.div>

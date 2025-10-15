@@ -271,7 +271,7 @@ export default function IntelliSAFETYPage() {
                     <div className="absolute top-4 right-4">
                       <Image
                         src="/images/logos/light-logo.png"
-                        alt="IntelliSpec"
+                        alt="intelliSPEC"
                         width={120}
                         height={27}
                         className="opacity-30"

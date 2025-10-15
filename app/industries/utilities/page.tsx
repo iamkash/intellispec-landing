@@ -53,7 +53,7 @@ const utilitiesIndustry = {
   challengeSolution: {
     title: 'Challenge-Solution Matrix',
     subtitle: 'Utilities Solutions',
-    description: 'How IntelliSpec addresses specific utility challenges with proven solutions and measurable results.',
+    description: 'How intelliSPEC addresses specific utility challenges with proven solutions and measurable results.',
     matrix: [
       {
         challenge: 'Grid failures and outages causing service disruptions and revenue loss',
@@ -265,7 +265,7 @@ const utilitiesIndustry = {
       },
       metrics: { outages: '85%', availability: '99.5%', integrity: '98%' },
       testimonial: {
-        quote: "IntelliSpec's infrastructure integrity platform transformed our utility operations from reactive to predictive. We now prevent outages before they impact customers.",
+        quote: "intelliSPEC's infrastructure integrity platform transformed our utility operations from reactive to predictive. We now prevent outages before they impact customers.",
         author: "Robert Chen",
         title: "Utility Asset Manager",
         company: "Metropolitan Utility Services"
@@ -456,7 +456,7 @@ export default function UtilitiesPage() {
         personas={safeIndustry.personas}
         timeline={[]}
         ctaTitle="Ready to Transform Your Utility Operations?"
-        ctaDescription="Join leading utility companies achieving operational excellence with IntelliSpec's comprehensive infrastructure solutions."
+        ctaDescription="Join leading utility companies achieving operational excellence with intelliSPEC's comprehensive infrastructure solutions."
       />
       <LLMReadyBlock
         intent="Utilities & Power FAQs"

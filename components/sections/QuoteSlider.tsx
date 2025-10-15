@@ -34,7 +34,7 @@ interface Testimonial {
 const testimonials: Testimonial[] = [
   {
     id: 1,
-    quote: "IntelliSpec transformed our turnaround process. We went from paper-based chaos to real-time visibility across all crews. The 40% time savings is real.",
+    quote: "intelliSPEC transformed our turnaround process. We went from paper-based chaos to real-time visibility across all crews. The 40% time savings is real.",
     author: "Mike Johnson",
     title: "Turnaround Manager",
     company: "PK Companies",
@@ -94,7 +94,7 @@ const trustMetrics = [
     icon: Users,
     value: '500+',
     label: 'Active Users',
-    description: 'Professionals using IntelliSpec daily',
+    description: 'Professionals using intelliSPEC daily',
     color: 'from-slate-600 to-slate-700',
     bgColor: 'bg-gradient-to-br from-slate-500/10 to-slate-600/10'
   },
@@ -159,7 +159,7 @@ export default function QuoteSlider() {
             What Our <span className="gradient-text">Customers Say</span>
           </h2>
           <p className="text-xl text-slate-600 max-w-4xl mx-auto leading-relaxed">
-            Real feedback from industry professionals who have transformed their operations with IntelliSpec.
+            Real feedback from industry professionals who have transformed their operations with intelliSPEC.
           </p>
         </motion.div>
 

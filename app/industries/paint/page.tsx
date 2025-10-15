@@ -161,7 +161,7 @@ const paintIndustry = {
       },
       metrics: { integrity: '98%', corrosion: '95%', compliance: '100%' },
         testimonial: {
-        quote: "IntelliSpec transformed our asset integrity program. We now detect corrosion issues before they become disasters, ensuring the safety of our operations and preventing costly downtime.",
+        quote: "intelliSPEC transformed our asset integrity program. We now detect corrosion issues before they become disasters, ensuring the safety of our operations and preventing costly downtime.",
         author: "Dr. Sarah Chen",
         title: "Asset Integrity Director",
         company: "Paint Integrity Solutions"
@@ -201,7 +201,7 @@ const paintIndustry = {
       },
       metrics: { efficiency: '80%', costs: '35%', safety: '100%' },
         testimonial: {
-        quote: "Turnarounds used to be our biggest headache. Now with IntelliSpec, we plan and execute them with precision, saving millions and maintaining perfect safety records.",
+        quote: "Turnarounds used to be our biggest headache. Now with intelliSPEC, we plan and execute them with precision, saving millions and maintaining perfect safety records.",
         author: "David Thompson",
         title: "Turnaround Director",
         company: "Paint Turnaround Excellence"
@@ -221,7 +221,7 @@ const paintIndustry = {
       },
       metrics: { detection: '95%', prevention: '90%', safety: '100%' },
         testimonial: {
-        quote: "Corrosion was our silent killer. IntelliSpec's monitoring system finds it before it becomes a disaster, saving lives and millions in potential losses.",
+        quote: "Corrosion was our silent killer. intelliSPEC's monitoring system finds it before it becomes a disaster, saving lives and millions in potential losses.",
         author: "Dr. Lisa Park",
         title: "Corrosion Engineering Director",
         company: "Paint Corrosion Solutions"
@@ -261,7 +261,7 @@ const paintIndustry = {
       },
       metrics: { compliance: '100%', speed: '70%', accuracy: '95%' },
         testimonial: {
-        quote: "Mechanical integrity assessments used to take weeks. Now with IntelliSpec, we complete them in days with 100% compliance and perfect accuracy.",
+        quote: "Mechanical integrity assessments used to take weeks. Now with intelliSPEC, we complete them in days with 100% compliance and perfect accuracy.",
         author: "Maria Santos",
         title: "Mechanical Integrity Director",
         company: "Paint Integrity Assessments"
@@ -307,7 +307,7 @@ export default function PaintIndustryPage() {
         personas={paintIndustry.personas}
         timeline={[]}
         ctaTitle="Ready to Transform Your Paint Operations?"
-        ctaDescription="Join leading paint manufacturers achieving operational excellence with IntelliSpec's comprehensive quality control and compliance solutions."
+        ctaDescription="Join leading paint manufacturers achieving operational excellence with intelliSPEC's comprehensive quality control and compliance solutions."
       />
       <LLMReadyBlock
         intent="Paint & Coatings FAQs"

@@ -1,8 +1,8 @@
-# IntelliSpec Landing - Technical Documentation
+# intelliSPEC Landing - Technical Documentation
 
 ## Overview
 
-Comprehensive technical documentation for the IntelliSpec Landing application - a high-performance, SEO-optimized Next.js 14 marketing website.
+Comprehensive technical documentation for the intelliSPEC Landing application - a high-performance, SEO-optimized Next.js 14 marketing website.
 
 ## Table of Contents
 
@@ -221,5 +221,5 @@ For questions or issues:
 
 **Documentation Version**: 1.0.0  
 **Last Updated**: October 2025  
-**Maintained By**: IntelliSpec Engineering Team
+**Maintained By**: intelliSPEC Engineering Team
 

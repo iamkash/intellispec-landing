@@ -51,12 +51,12 @@ export async function generateMetadata({ params }: CaseStudyPageProps): Promise<
   
   if (!caseStudy) {
     return {
-      title: 'Case Study Not Found - IntelliSpec',
+      title: 'Case Study Not Found - intelliSPEC',
     };
   }
 
   return {
-    title: `${caseStudy.title} - IntelliSpec`,
+    title: `${caseStudy.title} - intelliSPEC`,
     description: caseStudy.excerpt,
     alternates: { canonical: `https://intellispec.com/case-studies/${params.slug}` },
     openGraph: {
@@ -196,7 +196,7 @@ export default async function CaseStudyPage({ params }: CaseStudyPageProps) {
                 Key Results & Achievements
               </h2>
               <p className="text-xl text-slate-600 dark:text-slate-300 max-w-3xl mx-auto leading-relaxed">
-                Measurable outcomes and achievements from this implementation that demonstrate the transformative impact of IntelliSpec.
+                Measurable outcomes and achievements from this implementation that demonstrate the transformative impact of intelliSPEC.
               </p>
             </div>
             
@@ -237,7 +237,7 @@ export default async function CaseStudyPage({ params }: CaseStudyPageProps) {
             author: caseStudy.author ? { '@type': 'Person', name: caseStudy.author.name } : undefined,
             publisher: {
               '@type': 'Organization',
-              name: 'IntelliSpec',
+              name: 'intelliSPEC',
               url: 'https://intellispec.com'
             }
           })
@@ -252,7 +252,7 @@ export default async function CaseStudyPage({ params }: CaseStudyPageProps) {
               More Success Stories
             </h2>
             <p className="text-xl text-slate-600 dark:text-slate-300 max-w-3xl mx-auto leading-relaxed">
-              Explore other case studies from various industries showcasing the transformative power of IntelliSpec.
+              Explore other case studies from various industries showcasing the transformative power of intelliSPEC.
             </p>
           </div>
           

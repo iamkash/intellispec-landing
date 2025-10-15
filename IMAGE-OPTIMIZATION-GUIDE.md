@@ -1,4 +1,4 @@
-# Image Optimization Guide for IntelliSpec Landing Page
+# Image Optimization Guide for intelliSPEC Landing Page
 
 ## 🚨 **URGENT: Your 20MB Images Need Optimization!**
 

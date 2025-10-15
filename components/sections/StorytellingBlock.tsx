@@ -53,7 +53,7 @@ const personas = [
     },
     metrics: { efficiency: '25%', decisions: '40%', visibility: '100%' },
     testimonial: {
-      quote: "IntelliSpec gives us the enterprise-wide visibility we need to make strategic decisions. The ROI is immediate and measurable across all our facilities.",
+      quote: "intelliSPEC gives us the enterprise-wide visibility we need to make strategic decisions. The ROI is immediate and measurable across all our facilities.",
       author: "Sarah Chen",
       title: "CEO",
       company: "PetroChem Industries"
@@ -284,7 +284,7 @@ const personas = [
     },
     metrics: { readiness: '100%', response: '80%', coordination: '90%' },
     testimonial: {
-      quote: "In emergency situations, every second counts. IntelliSpec ensures our team is always ready and can respond instantly.",
+      quote: "In emergency situations, every second counts. intelliSPEC ensures our team is always ready and can respond instantly.",
       author: "Patricia Martinez",
       title: "Emergency Response Lead",
       company: "Emergency Response Services"
@@ -443,7 +443,7 @@ export default function StorytellingBlock() {
             <span className="gradient-text">Market Leadership</span>
           </h2>
           <p className="text-xl text-slate-600 max-w-5xl mx-auto leading-relaxed">
-            See how IntelliSpec transforms the most challenging industrial workflows into streamlined, 
+            See how intelliSPEC transforms the most challenging industrial workflows into streamlined, 
             efficient, and compliant operations.{' '}
             <span className="font-semibold text-slate-700">Real stories from professionals who have achieved seamless field-to-office integration and are outperforming their competitors by 20-40%.</span>
           </p>
@@ -683,7 +683,7 @@ export default function StorytellingBlock() {
 
               <div className="bg-slate-50 rounded-xl p-6 mb-8">
                 <h4 className="text-2xl font-bold text-slate-900 mb-6">
-                  What Sets IntelliSpec Apart
+                  What Sets intelliSPEC Apart
                 </h4>
                 <div className="grid md:grid-cols-2 gap-6 text-left">
                   <div className="flex items-start gap-3">
@@ -733,7 +733,7 @@ export default function StorytellingBlock() {
 
               <p className="text-base text-slate-600 mb-8 max-w-4xl mx-auto leading-relaxed">
                 <strong>Don&apos;t settle for fragmented systems and data silos.</strong> Join hundreds of industrial professionals who have already
-                achieved seamless field-to-office integration with IntelliSpec and are seeing
+                achieved seamless field-to-office integration with intelliSPEC and are seeing
                 <span className="font-semibold text-green-600"> 20-40% better results than their competitors.</span>
                 See exactly how your role can be revolutionized with unified data and real-time field integration.
               </p>

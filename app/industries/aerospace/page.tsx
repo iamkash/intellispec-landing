@@ -51,7 +51,7 @@ const aerospaceIndustry = {
   challengeSolution: {
     title: 'Challenge-Solution Matrix',
     subtitle: 'Aerospace Solutions',
-    description: 'How IntelliSpec addresses specific aerospace challenges with proven solutions and measurable results.',
+    description: 'How intelliSPEC addresses specific aerospace challenges with proven solutions and measurable results.',
     matrix: [
       {
         challenge: 'Critical aircraft component failures causing safety risks and flight delays',
@@ -263,7 +263,7 @@ const aerospaceIndustry = {
       },
       metrics: { maintenance: '85%', availability: '99.9%', integrity: '99%' },
       testimonial: {
-        quote: "IntelliSpec's aircraft integrity platform transformed our maintenance from reactive to predictive. We now prevent failures before they ground aircraft.",
+        quote: "intelliSPEC's aircraft integrity platform transformed our maintenance from reactive to predictive. We now prevent failures before they ground aircraft.",
         author: "Captain Sarah Mitchell",
         title: "Aircraft Maintenance Director",
         company: "Global Aviation Services"
@@ -420,7 +420,7 @@ export default function AerospacePage() {
         personas={aerospaceIndustry.personas}
         timeline={[]}
         ctaTitle="Ready to Transform Your Aerospace Operations?"
-        ctaDescription="Join leading aerospace companies achieving operational excellence with IntelliSpec's comprehensive aviation solutions."
+        ctaDescription="Join leading aerospace companies achieving operational excellence with intelliSPEC's comprehensive aviation solutions."
       />
       <LLMReadyBlock
         intent="Aerospace FAQs"

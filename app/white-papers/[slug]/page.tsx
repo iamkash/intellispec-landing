@@ -43,12 +43,12 @@ export async function generateMetadata({ params }: WhitePaperPageProps): Promise
   
   if (!whitePaper) {
     return {
-      title: 'White Paper Not Found - IntelliSpec',
+      title: 'White Paper Not Found - intelliSPEC',
     };
   }
 
   return {
-    title: `${whitePaper.title} - IntelliSpec`,
+    title: `${whitePaper.title} - intelliSPEC`,
     description: whitePaper.excerpt,
     alternates: { canonical: `https://intellispec.com/white-papers/${params.slug}` },
     openGraph: {
@@ -261,7 +261,7 @@ export default async function WhitePaperPage({ params }: WhitePaperPageProps) {
             author: whitePaper.author ? { '@type': 'Person', name: whitePaper.author.name } : undefined,
             publisher: {
               '@type': 'Organization',
-              name: 'IntelliSpec',
+              name: 'intelliSPEC',
               url: 'https://intellispec.com'
             }
           })

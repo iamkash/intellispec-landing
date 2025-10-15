@@ -1,11 +1,11 @@
-'use client'
+"use client";
 
-import React from 'react'
-import { motion } from 'framer-motion'
-import { HardHat } from 'lucide-react'
-import { Badge } from '@/components/ui/badge'
-import Image from 'next/image'
-import SupportForm from '@/components/sections/SupportForm'
+import React from "react";
+import { motion } from "framer-motion";
+import { HardHat } from "lucide-react";
+import { Badge } from "@/components/ui/badge";
+import Image from "next/image";
+import SupportForm from "@/components/sections/SupportForm";
 
 export default function SupportPage() {
   return (
@@ -16,9 +16,12 @@ export default function SupportPage() {
         <div className="absolute inset-0 w-full h-full overflow-hidden">
           <div className="absolute inset-0 bg-gradient-to-br from-background/40 via-muted/40 to-muted/60 animate-background-pulse"></div>
           <div className="absolute top-20 left-20 w-72 h-72 bg-primary/20 rounded-full blur-3xl animate-float"></div>
-          <div className="absolute bottom-20 right-20 w-96 h-96 bg-muted/20 rounded-full blur-3xl animate-float" style={{ animationDelay: '2s' }}></div>
+          <div
+            className="absolute bottom-20 right-20 w-96 h-96 bg-muted/20 rounded-full blur-3xl animate-float"
+            style={{ animationDelay: "2s" }}
+          ></div>
         </div>
-        
+
         <div className="container-custom relative z-10">
           <motion.div
             initial={{ opacity: 0, y: 30 }}
@@ -35,7 +38,7 @@ export default function SupportPage() {
             >
               <Image
                 src="/images/logos/light-logo.png"
-                alt="IntelliSpec - Where Data Meets Ingenuity"
+                alt="intelliSPEC - Where Data Meets Ingenuity"
                 width={280}
                 height={63}
                 className="mx-auto"
@@ -46,12 +49,20 @@ export default function SupportPage() {
               <HardHat className="w-4 h-4 mr-2" />
               Expert Support Team
             </Badge>
-            
+
             <h1 className="text-5xl md:text-7xl font-bold text-foreground mb-6 leading-tight">
               Support <span className="gradient-text">Center</span>
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground max-w-4xl mx-auto mb-8 leading-relaxed">
-              Get the help you need to maximize your <span className="text-primary font-semibold">IntelliSpec experience</span>. Our expert support team is here to ensure your success across all <span className="text-primary font-semibold">10 modules</span>.
+              Get the help you need to maximize your{" "}
+              <span className="text-primary font-semibold">
+                <span className="text-primary">intelli</span>
+                <span className="text-secondary font-bold">SPEC</span>{" "}
+                experience
+              </span>
+              . Our expert support team is here to ensure your success across
+              all <span className="text-primary font-semibold">10 modules</span>
+              .
             </p>
 
             {/* Quick Stats */}
@@ -62,7 +73,9 @@ export default function SupportPage() {
                 transition={{ duration: 0.6, delay: 0.3 }}
                 className="glass-card rounded-2xl p-6 text-center"
               >
-                <div className="text-3xl font-bold text-primary mb-2">99.9%</div>
+                <div className="text-3xl font-bold text-primary mb-2">
+                  99.9%
+                </div>
                 <div className="text-muted-foreground">Platform Uptime</div>
               </motion.div>
               <motion.div
@@ -71,7 +84,9 @@ export default function SupportPage() {
                 transition={{ duration: 0.6, delay: 0.4 }}
                 className="glass-card rounded-2xl p-6 text-center"
               >
-                <div className="text-3xl font-bold text-primary mb-2">&lt;4h</div>
+                <div className="text-3xl font-bold text-primary mb-2">
+                  &lt;4h
+                </div>
                 <div className="text-muted-foreground">Response Time</div>
               </motion.div>
               <motion.div
@@ -91,5 +106,5 @@ export default function SupportPage() {
       {/* Embedded Support Form */}
       <SupportForm />
     </div>
-  )
-} 
+  );
+}

@@ -1,7 +1,7 @@
-# IntelliSpec Landing Page - Deployment Guide
+# intelliSPEC Landing Page - Deployment Guide
 
 ## Overview
-This guide covers the complete deployment process for the IntelliSpec landing page to Vercel, including troubleshooting common build issues.
+This guide covers the complete deployment process for the intelliSPEC landing page to Vercel, including troubleshooting common build issues.
 
 ## Prerequisites
 - Node.js 18+ installed

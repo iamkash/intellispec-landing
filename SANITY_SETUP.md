@@ -1,6 +1,6 @@
 # Sanity CMS Setup Guide
 
-This guide will help you set up Sanity CMS for managing Case Studies, White Papers, and Blog content for the IntelliSpec website.
+This guide will help you set up Sanity CMS for managing Case Studies, White Papers, and Blog content for the intelliSPEC website.
 
 ## 🚀 Quick Start
 
@@ -32,7 +32,7 @@ If you want to use Sanity Studio for content management:
 npm install -g @sanity/cli
 
 # Initialize Sanity Studio in your project
-sanity init --template clean --create-project "IntelliSpec CMS" --dataset production
+sanity init --template clean --create-project "intelliSPEC CMS" --dataset production
 
 # Follow the prompts and use your project ID
 ```

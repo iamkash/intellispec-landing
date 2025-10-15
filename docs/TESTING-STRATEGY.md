@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines the testing approach for the IntelliSpec Landing application, covering manual testing, automated testing strategies, and quality assurance processes.
+This document outlines the testing approach for the intelliSPEC Landing application, covering manual testing, automated testing strategies, and quality assurance processes.
 
 ## Testing Pyramid
 

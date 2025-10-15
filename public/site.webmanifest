@@ -1,6 +1,6 @@
 {
-  "name": "IntelliSpec - Industrial Intelligence Platform",
-  "short_name": "IntelliSpec",
+  "name": "intelliSPEC - Industrial Intelligence Platform",
+  "short_name": "intelliSPEC",
   "description": "Transform industrial operations with AI-powered inspection, compliance, and asset management solutions",
   "start_url": "/",
   "display": "standalone",

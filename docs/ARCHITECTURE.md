@@ -2,7 +2,7 @@
 
 ## System Architecture
 
-IntelliSpec Landing is a modern, high-performance Next.js 14 application built with the App Router architecture, designed for optimal SEO, performance, and developer experience.
+intelliSPEC Landing is a modern, high-performance Next.js 14 application built with the App Router architecture, designed for optimal SEO, performance, and developer experience.
 
 ### High-Level Architecture
 

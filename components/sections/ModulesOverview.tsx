@@ -375,7 +375,7 @@ export default function ModulesOverview() {
 
               <div className="bg-slate-50 rounded-xl p-6 mb-8">
                 <h4 className="text-2xl font-bold text-slate-900 mb-6">
-                  Why Choose IntelliSpec Modules?
+                  Why Choose intelliSPEC Modules?
                 </h4>
                 <div className="grid md:grid-cols-2 gap-6 text-left">
                   <div className="flex items-start gap-3">

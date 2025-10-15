@@ -2,7 +2,7 @@
 
 ## Component Architecture
 
-The IntelliSpec Landing component system follows atomic design principles with React Server Components (RSC) and Client Components.
+The intelliSPEC Landing component system follows atomic design principles with React Server Components (RSC) and Client Components.
 
 ## Component Hierarchy
 

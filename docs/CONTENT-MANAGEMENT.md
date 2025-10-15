@@ -2,7 +2,7 @@
 
 ## Sanity CMS Overview
 
-IntelliSpec Landing uses Sanity.io as a headless CMS for managing dynamic content including blog posts, case studies, press releases, and white papers.
+intelliSPEC Landing uses Sanity.io as a headless CMS for managing dynamic content including blog posts, case studies, press releases, and white papers.
 
 ## Sanity Studio Setup
 
@@ -293,7 +293,7 @@ export default {
    → Be specific and detailed
 
 4. Describe Solution
-   → Explain how IntelliSpec solved it
+   → Explain how intelliSPEC solved it
    → Mention specific modules used
 
 5. Add Results/Metrics

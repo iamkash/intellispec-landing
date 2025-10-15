@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines security measures, best practices, and guidelines for maintaining a secure IntelliSpec Landing application.
+This document outlines security measures, best practices, and guidelines for maintaining a secure intelliSPEC Landing application.
 
 ## Security Headers
 

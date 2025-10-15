@@ -51,7 +51,7 @@ const pharmaIndustry = {
   challengeSolution: {
     title: 'Challenge-Solution Matrix',
     subtitle: 'Pharmaceutical Solutions',
-    description: 'How IntelliSpec addresses specific pharmaceutical challenges with proven solutions and measurable results.',
+    description: 'How intelliSPEC addresses specific pharmaceutical challenges with proven solutions and measurable results.',
     matrix: [
       {
         challenge: 'Quality control failures causing product recalls and regulatory violations',
@@ -321,7 +321,7 @@ export default function PharmaPage() {
         },
         metrics: { quality: '95%', recalls: '0', compliance: '100%' },
         testimonial: {
-          quote: "IntelliSpec's quality intelligence platform transformed our pharmaceutical operations from reactive to predictive. We now prevent quality issues before they impact patients.",
+          quote: "intelliSPEC's quality intelligence platform transformed our pharmaceutical operations from reactive to predictive. We now prevent quality issues before they impact patients.",
           author: "Dr. Sarah Chen",
           title: "Pharmaceutical Quality Director",
           company: "Global Pharma Excellence"
@@ -470,7 +470,7 @@ export default function PharmaPage() {
         personas={pharmaData.personas}
         timeline={[]}
         ctaTitle="Ready to Transform Your Pharmaceutical Operations?"
-        ctaDescription="Join leading pharmaceutical companies achieving operational excellence with IntelliSpec's comprehensive quality and compliance solutions."
+        ctaDescription="Join leading pharmaceutical companies achieving operational excellence with intelliSPEC's comprehensive quality and compliance solutions."
       />
       <LLMReadyBlock
         intent="Pharma FAQs"

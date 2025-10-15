@@ -97,7 +97,7 @@ export default function SolutionsOverview() {
             Solutions for <span className="gradient-text">Every Challenge</span>
           </h2>
           <p className="text-xl text-slate-600 max-w-5xl mx-auto leading-relaxed">
-            From field operations to executive dashboards, IntelliSpec provides end-to-end solutions that 
+            From field operations to executive dashboards, intelliSPEC provides end-to-end solutions that 
             <span className="font-semibold text-slate-700"> transform how industrial organizations operate, maintain, and grow.</span>
           </p>
         </motion.div>

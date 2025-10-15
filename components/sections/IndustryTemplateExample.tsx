@@ -139,7 +139,7 @@ const chemicalIndustryData = {
         "Downtime Reduction": "40%"
       },
       testimonial: {
-        quote: "IntelliSpec transformed our plant operations. We now have complete visibility and predictive capabilities.",
+        quote: "intelliSPEC transformed our plant operations. We now have complete visibility and predictive capabilities.",
         author: "Sarah Chen",
         title: "Plant Manager",
         company: "ChemCorp Industries"
@@ -345,7 +345,7 @@ const chemicalIndustryData = {
         title: "Intelligence",
         subtitle: "AI-Powered Predictive Intelligence",
         period: "2024-2034",
-        description: "IntelliSpec delivers predictive chemical process intelligence",
+        description: "intelliSPEC delivers predictive chemical process intelligence",
       features: [
         {
           icon: CheckCircle,
@@ -376,7 +376,7 @@ const chemicalIndustryData = {
   ],
 
   ctaTitle: "Ready to Transform Your Chemical Operations?",
-  ctaDescription: "Join industry leaders who have revolutionized their chemical manufacturing operations with IntelliSpec. Start your free trial today and see the difference predictive intelligence makes.",
+  ctaDescription: "Join industry leaders who have revolutionized their chemical manufacturing operations with intelliSPEC. Start your free trial today and see the difference predictive intelligence makes.",
   ctaButtonText: "Start Free Trial",
   ctaButtonLink: "/contact"
 }
@@ -462,7 +462,7 @@ const oilGasIndustryData = {
         "Production Uptime": "95%"
       },
       testimonial: {
-        quote: "IntelliSpec has revolutionized our well operations. We now have complete visibility and predictive capabilities.",
+        quote: "intelliSPEC has revolutionized our well operations. We now have complete visibility and predictive capabilities.",
         author: "John Smith",
         title: "Operations Manager",
         company: "OilTech Solutions"
@@ -610,7 +610,7 @@ const oilGasIndustryData = {
         title: "Intelligence",
         subtitle: "AI-Powered Predictive Intelligence",
         period: "2024-2034",
-        description: "IntelliSpec delivers predictive oil & gas operations intelligence",
+        description: "intelliSPEC delivers predictive oil & gas operations intelligence",
       features: [
         {
           icon: CheckCircle,
@@ -641,7 +641,7 @@ const oilGasIndustryData = {
   ],
 
   ctaTitle: "Ready to Transform Your Operations?",
-  ctaDescription: "Join industry leaders who have revolutionized their oil & gas operations with IntelliSpec. Start your free trial today and see the difference predictive intelligence makes.",
+  ctaDescription: "Join industry leaders who have revolutionized their oil & gas operations with intelliSPEC. Start your free trial today and see the difference predictive intelligence makes.",
   ctaButtonText: "Start Free Trial",
   ctaButtonLink: "/contact"
 }
